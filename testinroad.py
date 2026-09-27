@@ -16,6 +16,13 @@ EXERCICES_BASE = {
     "leg extension": "mono",
     "leg curl": "mono",
     "écarté couché": "mono",
+    "elevation laterale": "mono",
+    "developpe militaire": "poly",
+    "poulie pro": "mono",
+    "poulie arriere": "mono",
+    "dips machine": "poly",
+    "ecarte machine": "mono",
+    "butterfly": "mono"
 }
 
 
